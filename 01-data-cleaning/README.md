@@ -1,5 +1,3 @@
-# Data Cleaning with Pandas
-
 # Customer Call List Data Cleaning with Pandas
 
 ## Overview
